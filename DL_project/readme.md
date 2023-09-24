@@ -1,4 +1,4 @@
-# NEU_DL_project
+# DeepLearning_project
 
 ## Identifying Pneumonia by X-ray image based-on Deep learning
 
